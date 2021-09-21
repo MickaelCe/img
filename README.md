@@ -1,0 +1,2 @@
+# img
+stock_photo
